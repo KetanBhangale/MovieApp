@@ -4,6 +4,9 @@ Movie App in Kotlin with Retrofit, MVVM.
 Sample Movie App using ThemovieDB database
 
 Register your app on theMovieDB and get the API KEY to use for authentication in retrofit.  
+
+Please note that without **API Key** app will not be functional. **Add the API KEY in Constant.kt** class under package com.example.samplemovieapp.utils
+
 To Register on theMovieDB visit: https://www.themoviedb.org/
 
 Details API documentation is available at https://developers.themoviedb.org/3/getting-started/introduction
